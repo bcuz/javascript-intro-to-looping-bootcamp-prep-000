@@ -1,5 +1,5 @@
 function forLoop(array) {
-  for (var i = 0; i < 100; i++) {
+  for (var i = 0; i < 25; i++) {
   console.log( "Hello World the " + i + " time" );
 }
 }
