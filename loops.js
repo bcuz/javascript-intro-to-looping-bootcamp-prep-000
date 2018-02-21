@@ -18,6 +18,7 @@ function whileLoop(n) {
     console.log(n)
     n--
   }
+  return 'done'
 }
 
 // console.log(forLoop([]))
