@@ -13,4 +13,8 @@ return array
 
 }
 
-console.log(forLoop([]))
+function whileLoop(n) {
+  
+}
+
+// console.log(forLoop([]))
